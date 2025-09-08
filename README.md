@@ -20,6 +20,7 @@ https://letterstoanalicia.com
 - GitHub Pages for hosting
 
 ## Structure
+```
   /docs       # screenshots, planning artifacts
   /images     # placeholders -> real photos later
   index.html
@@ -29,7 +30,7 @@ https://letterstoanalicia.com
   style.css
   script.js
   README.md
-
+```
 
 ## Setup
 1. Clone or download.
